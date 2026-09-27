@@ -1,5 +1,7 @@
 # Reaction Studio demo
 
-Built demo site: https://agri9394.github.io/reaction-studio-demo/
+https://agri9394.github.io/reaction-studio-demo/
 
-This repository contains generated website assets.
+Generated website assets from source commit 89211b7.
+
+Includes native MP4, local WebM-to-MP4 conversion, and edge-to-edge crop controls.
