@@ -2,6 +2,6 @@
 
 https://agri9394.github.io/reaction-studio-demo/
 
-Generated website assets from source commit 89211b7.
+Generated website assets from feat/camera-background, source commit 3f0a31b.
 
-Includes native MP4, local WebM-to-MP4 conversion, and edge-to-edge crop controls.
+Includes local camera background removal and background image upload.
